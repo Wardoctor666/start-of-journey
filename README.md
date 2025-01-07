@@ -1,1 +1,2 @@
-# start-of-journey is here
+# start-of-journey
+insert coin here :P
